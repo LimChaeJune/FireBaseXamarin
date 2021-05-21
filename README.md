@@ -1,6 +1,5 @@
 # FireBaseXamarin   
-  FCM (FireBase Chrome Message)를 통해 Xamarin Android 애플리케이션에 알림 Push를 구현합니다.
----
+  FCM (FireBase Chrome Message)를 통해 Xamarin Android 애플리케이션에 알림 Push를 구현합니다.   
 
 ## 개요   
   - FireBase Console Setting
