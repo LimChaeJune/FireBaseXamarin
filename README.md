@@ -3,9 +3,14 @@
 
 ## 개요   
   - FireBase Console Setting
-  - Xamarin 애플리케이션 Setting
+  - Xamarin APP
   - C# To Fcm Batch 프로젝트    
 ---
 
   ### FireBase Conosle
-  먼저 [Firebase](https://console.firebase.google.com/) 사이트에 접속해 프로젝트를 생성합니다.
+  1. [Firebase](https://console.firebase.google.com/) 사이트에 접속해 프로젝트를 생성합니다.
+  2. 프로젝트로 들어가 Android 애플리케이션을 생성합니다. 여기서 Android 패키지의 이름은 Xamarin APP의 패키지 이름과 동일시 합니다.
+  3. App을 생성하면서 googleservice-json 파일을 다운로드 합니다. Xamarin 앱에서 이 프로젝트를 연결, 인증하는데 필요합니다.
+  4. App 설정이 완료 되었으면, 프로젝트 설정 -> 서비스 계정 으로 가 비공개 키를 생성하여 저장합니다.
+
+  ### Xamarin APP
