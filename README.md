@@ -8,3 +8,4 @@
 ---
 
   ### FireBase Conosle
+  먼저 [Firebase](https://console.firebase.google.com/) 사이트에 접속해 프로젝트를 생성합니다.
