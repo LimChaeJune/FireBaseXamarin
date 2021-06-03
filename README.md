@@ -20,5 +20,7 @@
   4. FireBase에 메시징을 보내기 위한 SDK를 다운로드합니다.    
     `Xamarin.GooglePlayServices.Base`   `Xamarin.Firebase.Messaging`
   5. google-service.json 파일의 속성에서 빌드작업을 GoogleServicesJson으로 변경해줍니다. 
-      
+  6. Message를 Recived해줄 핸들러를 MainActivity.cs를 수정합니다.
+  
+  ### C# To FCM Batch
  
